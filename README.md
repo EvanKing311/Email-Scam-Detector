@@ -1,6 +1,9 @@
 # Email-Scam-Detector
 Uploaded to this repository is all of the files needed to run the email scam detector.
 
+**This site will allow the user to upload the subject, sender, and body of an email that they may be suspicious about. Returned will be the results of the Anthropic API's** **analysis along with the results my own created rule-based detector. The user can also link their email for batch analysis of the user's X most recent emails that they**
+**input (requires app password (instructions above))**
+
 Steps to run the project:
 
 -Clone repository
@@ -19,9 +22,6 @@ Steps to run the project:
 
 -For Batch Check App Password: Must have 2FA enabled. Create app password at https://myaccount.google.com/apppasswords . Paste this into the password field.
 
-
-**This site will allow the user to upload the subject, sender, and body of an email that they may be suspicious about. Returned will be the results of the Anthropic API's** **analysis along with the results my own created rule-based detector. The user can also link their email for batch analysis of the user's X most recent emails that they**
-**input (requires app password (instructions above))**
 
 **Below is the google drive link for the notebook file I made the detector and performed data analysis in**
 
