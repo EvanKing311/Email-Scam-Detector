@@ -23,7 +23,7 @@ Uploaded to this repository is all of the files needed to run the email scam det
 -For Batch Check App Password: Must have 2FA enabled. Create app password at https://myaccount.google.com/apppasswords . Paste this into the password field.
 
 
-**Below is the google drive link for the notebook file I made the detector and performed data analysis in**
+# Notebook File with Detector Functions 
 
 https://colab.research.google.com/drive/1Jx9Fu1Q_7kM2RDi5QJXrIof1xrOSQtaR?usp=drive_link
 
