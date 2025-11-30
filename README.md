@@ -14,7 +14,7 @@ Uploaded to this repository is all of the files needed to run the email scam det
 
 -Create Anthropic API key from https://console.anthropic.com/
 
--save all files, cd to project root
+-save all files, cd to project root in terminal
 
 -Run: python app.py
 
