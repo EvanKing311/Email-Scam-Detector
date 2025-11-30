@@ -2,18 +2,28 @@
 Uploaded to this repository is all of the files needed to run the email scam detector.
 
 Steps to run the project:
+
 -Clone repository
+
 -Install Dependencies: pip install flask anthropic python-dotenv
+
 -create .env file in root with format: ANTHROPIC_API_KEY="your-key"
+
 -Create Anthropic API key from https://console.anthropic.com/
+
 -save all files, cd to project root
+
 -Run: python app.py
+
 -Open: http://localhost:5000
+
 -For Batch Check App Password: Must have 2FA enabled. Create app password at https://myaccount.google.com/apppasswords . Paste this into the password field.
 
 
-# This site will allow the user to upload the subject, sender, and body of an email that they may be suspicious about. Returned will be the results of the Anthropic API's 
-# analysis along with the results my own created rule-based detector. The user can also link their email for batch analysis of the user's X most recent emails that they
-# input (requires app password (instructions above))
+**This site will allow the user to upload the subject, sender, and body of an email that they may be suspicious about. Returned will be the results of the Anthropic API's** **analysis along with the results my own created rule-based detector. The user can also link their email for batch analysis of the user's X most recent emails that they**
+**input (requires app password (instructions above))**
+
+**Below is the google drive link for the notebook file I made the detector and performed data analysis in**
 
 https://colab.research.google.com/drive/1Jx9Fu1Q_7kM2RDi5QJXrIof1xrOSQtaR?usp=drive_link
+
