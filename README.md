@@ -4,7 +4,7 @@ Uploaded to this repository is all of the files needed to run the email scam det
 **This site will allow the user to upload the subject, sender, and body of an email that they may be suspicious about. Returned will be the results of the Anthropic API's** **analysis along with the results my own created rule-based detector. The user can also link their email for batch analysis of the user's X most recent emails that they**
 **input (requires app password (instructions above))**
 
-Steps to run the project:
+# Steps to run the project:
 
 -Clone repository
 
@@ -26,4 +26,6 @@ Steps to run the project:
 **Below is the google drive link for the notebook file I made the detector and performed data analysis in**
 
 https://colab.research.google.com/drive/1Jx9Fu1Q_7kM2RDi5QJXrIof1xrOSQtaR?usp=drive_link
+
+**The notebook file runs with the CSV file uploaded to the repository**
 
