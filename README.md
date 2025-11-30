@@ -12,7 +12,9 @@ Uploaded to this repository is all of the files needed to run the email scam det
 
 -create .env file in root with format: ANTHROPIC_API_KEY="your-key"
 
--Create Anthropic API key from https://console.anthropic.com/
+-Create Anthropic API key from https://console.anthropic.com/ 
+
+^^^(this must be done to keep API key confidential)
 
 -save all files, cd to project root in terminal
 
