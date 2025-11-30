@@ -27,5 +27,6 @@ Uploaded to this repository is all of the files needed to run the email scam det
 
 https://colab.research.google.com/drive/1Jx9Fu1Q_7kM2RDi5QJXrIof1xrOSQtaR?usp=drive_link
 
-**The notebook file runs with the CSV file uploaded to the repository**
+**The notebook file runs with a CSV file that cannot be uploaded to the repository but it will be submitted on Canvas and can also be downloaded at the link below**
 
+https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset?resource=download
