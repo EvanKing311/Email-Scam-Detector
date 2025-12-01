@@ -6,7 +6,11 @@ Uploaded to this repository is all of the files needed to run the email scam det
 
 # YouTube Links: 
 
+PowerPoint Presentation
+
 https://youtu.be/xQVUs4-QVtg
+
+Demo Video
 
 https://youtu.be/YINBZPi5W-A
 
