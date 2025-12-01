@@ -4,6 +4,12 @@ Uploaded to this repository is all of the files needed to run the email scam det
 **This site will allow the user to upload the subject, sender, and body of an email that they may be suspicious about. Returned will be the results of the Anthropic API's** **analysis along with the results my own created rule-based detector. The user can also link their email for batch analysis of the user's X most recent emails that they**
 **input (requires app password (instructions above))**
 
+# YouTube Links: 
+
+https://youtu.be/xQVUs4-QVtg
+
+https://youtu.be/YINBZPi5W-A
+
 # Steps to run the project:
 
 -Clone repository
