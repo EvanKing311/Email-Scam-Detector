@@ -8,11 +8,11 @@ Uploaded to this repository is all of the files needed to run the email scam det
 
 PowerPoint Presentation
 
-https://youtu.be/xQVUs4-QVtg
+https://youtu.be/ANPV6CfVAWM
 
 Demo Video
 
-https://youtu.be/YINBZPi5W-A
+https://youtu.be/O-OllkcwjME
 
 # Steps to run the project:
 
